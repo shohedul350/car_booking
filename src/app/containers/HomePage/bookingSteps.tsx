@@ -11,7 +11,7 @@ import tw from "twin.macro";
 const Container = styled.div`
   ${tw`
     w-full
-    flex
+    flex  
     flex-col
     items-center
     pt-3
